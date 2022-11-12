@@ -10,7 +10,6 @@ The objective of the game is to fit within the walls.
 
 Here is a demo on the game
 [Physics 2D Platformer [Working Title]](http://youtube.link.goes.here)
-
 # Development Environment
 
 I used Unity for the game environment, with scipts written in C#
